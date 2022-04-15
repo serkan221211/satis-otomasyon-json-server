@@ -2,14 +2,14 @@
   "customers": [
         {
             "id": "62476264759be4bb7e3c230c",
-            "companyName": "test",
+            "companyName": "Test",
             "name": "test adı",
             "surname": "test soad",
-            "taxNumber": "testse",
-            "telephone": "adasd",
-            "tapdk": "asdasd",
-            "city": "asdasd",
-            "district": "asdasd",
+            "taxNumber": "123456789",
+            "telephone": "123456789",
+            "tapdk": "1234567PT",
+            "city": "İstanbul",
+            "district": "Kadıköy",
             "address": "asdasd",
             "latitude": "asdasd",
             "longitude": "asdasdas"
