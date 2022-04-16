@@ -15,9 +15,12 @@
             "longitude": "asdasdas"
         }
     ],
+ 
+  
   "urun": [
         {
-            "company": ""
+            "company": "Medya"
         }
-    ]
+    
+ ]
 }
