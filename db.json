@@ -1,9 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "customers": [
+        {
+            "id": "62476264759be4bb7e3c230c",
+            "companyName": "Test",
+            "name": "test adı",
+            "surname": "test soad",
+            "taxNumber": "123456789",
+            "telephone": "123456789",
+            "tapdk": "1234567PT",
+            "city": "İstanbul",
+            "district": "Kadıköy",
+            "address": "asdasd",
+            "latitude": "asdasd",
+            "longitude": "asdasdas"
+        }
+    ],
+ 
+  
+  "urun": [
+        {
+            "company": "Medya"
+        }
+    
+ ]
 }
