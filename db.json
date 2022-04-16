@@ -2,6 +2,7 @@
    
    "satis":[
 {
+    "id": "deneme",
     "date": "",
     "company_name": "",
     "total": "",
@@ -11,10 +12,15 @@
             "piece": "",
             "money": "",
             "sum": ""
+        },
+        {
+            "name": "",
+            "piece": "",
+            "money": "",
+            "sum": ""
         }
     ]
 }
-   
    ],
 
    "customers1": [
