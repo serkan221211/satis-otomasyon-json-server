@@ -3,17 +3,21 @@
    "satis":[
 {
     "id": "deneme",
-    "date": "",
-    "company_name": "",
-    "total": "",
-    "product": [
-        {
-            "name": "",
-            "piece": "",
-            "money": "",
-            "sum": ""
-        }
-    ]
+        "date": "",
+        "company_name": "",
+        "total": "",
+        "cash": "",
+        "card": "",
+        "remainder": "",
+        "product": [
+            {
+                "id": "",
+                "name": "",
+                "piece": "",
+                "money": "",
+                "sum": ""
+            }
+        ]
 }
    ],
 
